@@ -1,0 +1,17 @@
+body {
+    background: url('../img/fondo.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#logo {
+    background: blue;
+}
+
+#menu ul li:hover {
+    background: blue;
+}
+
+.button-more {
+    background: blue;
+}

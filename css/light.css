@@ -1,0 +1,29 @@
+body {
+    background: url('../img/claro.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#logo {
+    background: rgba(0, 0, 0, 0.253);
+}
+
+#menu ul li:hover {
+    background: rgba(0, 0, 0, 0.253);
+}
+
+.button-more {
+    background: rgba(0, 0, 0, 0.253);
+}
+
+.button-more {
+    font-size: 14px;
+    text-align: center;
+    display: block;
+    padding: 15px;
+    color: white;
+    text-decoration: none;
+    margin-top: 10px;
+    width: 70px;
+    margin-bottom: 20px;
+}

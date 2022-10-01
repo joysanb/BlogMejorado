@@ -1,0 +1,17 @@
+body {
+    background: url('../img/negro.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#logo {
+    background: black;
+}
+
+#menu ul li:hover {
+    background: black;
+}
+
+.button-more {
+    background: black;
+}
